@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pc\\OneDrive\\Desktop\\UA\\Year 1\\Semester 2\\Programmation II\\projet\\Project3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23546381-4901-4E91-A410-8611D7B60E3C}|Project3.vcxproj|C:\\Users\\Pc\\OneDrive\\Desktop\\UA\\Year 1\\Semester 2\\Programmation II\\projet\\Project3\\Project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{23546381-4901-4E91-A410-8611D7B60E3C}|Project3.vcxproj|solutionrelative:Project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pc\\OneDrive\\Desktop\\UA\\Year 1\\Semester 2\\Programmation II\\projet\\Project3\\charities.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:charities.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pc\\OneDrive\\Desktop\\UA\\Year 1\\Semester 2\\Programmation II\\projet\\Project3\\users.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:users.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pc\\OneDrive\\Desktop\\UA\\Year 1\\Semester 2\\Programmation II\\projet\\Project3\\donations.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:donations.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d3750d8a-574b-4fb3-b7e2-aa8af40e8231}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "donations.txt",
+              "DocumentMoniker": "C:\\Users\\Pc\\OneDrive\\Desktop\\UA\\Year 1\\Semester 2\\Programmation II\\projet\\Project3\\donations.txt",
+              "RelativeDocumentMoniker": "donations.txt",
+              "ToolTip": "C:\\Users\\Pc\\OneDrive\\Desktop\\UA\\Year 1\\Semester 2\\Programmation II\\projet\\Project3\\donations.txt",
+              "RelativeToolTip": "donations.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-12T05:01:51.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "users.txt",
+              "DocumentMoniker": "C:\\Users\\Pc\\OneDrive\\Desktop\\UA\\Year 1\\Semester 2\\Programmation II\\projet\\Project3\\users.txt",
+              "RelativeDocumentMoniker": "users.txt",
+              "ToolTip": "C:\\Users\\Pc\\OneDrive\\Desktop\\UA\\Year 1\\Semester 2\\Programmation II\\projet\\Project3\\users.txt",
+              "RelativeToolTip": "users.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-12T05:01:46.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "charities.txt",
+              "DocumentMoniker": "C:\\Users\\Pc\\OneDrive\\Desktop\\UA\\Year 1\\Semester 2\\Programmation II\\projet\\Project3\\charities.txt",
+              "RelativeDocumentMoniker": "charities.txt",
+              "ToolTip": "C:\\Users\\Pc\\OneDrive\\Desktop\\UA\\Year 1\\Semester 2\\Programmation II\\projet\\Project3\\charities.txt",
+              "RelativeToolTip": "charities.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-12T05:01:41.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Project.cpp",
+              "DocumentMoniker": "C:\\Users\\Pc\\OneDrive\\Desktop\\UA\\Year 1\\Semester 2\\Programmation II\\projet\\Project3\\Project.cpp",
+              "RelativeDocumentMoniker": "Project.cpp",
+              "ToolTip": "C:\\Users\\Pc\\OneDrive\\Desktop\\UA\\Year 1\\Semester 2\\Programmation II\\projet\\Project3\\Project.cpp",
+              "RelativeToolTip": "Project.cpp",
+              "ViewState": "AgIAAAsCAAAAAAAAAAAYwBgCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-12T05:00:12.075Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
